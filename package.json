@@ -1,7 +1,7 @@
 {
-    "name": "JRT",
+    "name": "Aliya",
     "version": "2.0.0",
-    "description": "Đây là source code được fix lại bởi JRT. Chúc các bạn có một ngày vui vẻ <3",
+    "description": "Xin chào, đây là source bot được remake chỉnh sửa mới Aliya thuộc team HT2K! <3",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
@@ -12,8 +12,8 @@
         "type": "git",
         "url": "git+https://github.com/J-JRT/JRT_main.git"
     },
-    "author": "JRT",
-    "license": "GPL-3.0",
+    "author": "Aliya",
+    "license": "HT2K-GPL.3",
     "dependencies": {
         "@miraipr0ject/assets": "^1.0.9",
         "aes-js": "^3.1.2",
